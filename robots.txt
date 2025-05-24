@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /drafts/
 Disallow: /private/
-Sitemap: https://hussamalmashhour.github.io/sitemap.xml
+Sitemap: https://hussamalmashhour.github.io/EduFocus/sitemap.xml
